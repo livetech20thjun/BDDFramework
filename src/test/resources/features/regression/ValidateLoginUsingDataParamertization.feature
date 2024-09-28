@@ -1,5 +1,6 @@
 Feature: To validate login for Adactin hotel app
 
+@regression
 Scenario Outline: To validate login using  different combinations of credentails 
 
 Given user starts "chrome" browser
